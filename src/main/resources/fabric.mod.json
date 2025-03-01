@@ -3,13 +3,12 @@
     "id": "ikun_mod",
     "version": "${version}",
     "name": "IKun Mod",
-    "description": "ikun",
+    "description": "The IKun Mod is a Minecraft mod featuring items like the Chicken Coop and Center Parted Wig, a powerful creature Chicken Kun with unique skills, special effects, and an achievement to beat the Chicken Kun boss.",
     "authors": [
         "Jaffe2718"
     ],
     "contact": {
         "email": "qqyttwqeei@163.com",
-        "homepage": "https://modrinth.com/mod/ikun_mod/",
         "issues": "https://https://github.com/Jaffe2718/ikun_mod/issues",
         "sources": "https://https://github.com/Jaffe2718/ikun_mod"
     },
