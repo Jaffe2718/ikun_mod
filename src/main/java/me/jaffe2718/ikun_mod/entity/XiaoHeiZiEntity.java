@@ -1,6 +1,5 @@
 package me.jaffe2718.ikun_mod.entity;
 
-import me.jaffe2718.ikun_mod.IKunMod;
 import me.jaffe2718.ikun_mod.unit.EffectRegistry;
 import me.jaffe2718.ikun_mod.unit.EntityRegistry;
 import net.minecraft.entity.EntityType;

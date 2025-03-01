@@ -11,13 +11,9 @@ import software.bernie.geckolib.animation.Animation;
 import software.bernie.geckolib.animation.AnimationState;
 import software.bernie.geckolib.animation.RawAnimation;
 import software.bernie.geckolib.loading.math.MathParser;
-import software.bernie.geckolib.loading.math.value.Variable;
 import software.bernie.geckolib.model.GeoModel;
 import software.bernie.geckolib.renderer.GeoEntityRenderer;
 import software.bernie.geckolib.renderer.GeoRenderer;
-
-
-
 
 @Environment(EnvType.CLIENT)
 public class ChickenKunEntityRenderer extends GeoEntityRenderer<ChickenKunEntity> {

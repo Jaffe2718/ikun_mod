@@ -4,9 +4,7 @@ import me.jaffe2718.ikun_mod.IKunMod;
 import me.jaffe2718.ikun_mod.entity.ChickenKunEntity;
 import me.jaffe2718.ikun_mod.entity.XiaoHeiZiEntity;
 import net.fabricmc.fabric.api.object.builder.v1.entity.FabricDefaultAttributeRegistry;
-import net.fabricmc.fabric.mixin.object.builder.DefaultAttributeRegistryAccessor;
 import net.minecraft.entity.EntityType;
-
 import net.minecraft.entity.SpawnGroup;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;

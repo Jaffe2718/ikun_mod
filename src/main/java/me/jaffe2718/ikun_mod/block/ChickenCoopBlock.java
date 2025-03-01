@@ -70,7 +70,7 @@ public class ChickenCoopBlock extends BlockWithEntity {
                 return VoxelShapes.empty();
             }
         }
-        return super.getCollisionShape(state, world, pos, context);// TODO
+        return super.getCollisionShape(state, world, pos, context);
     }
 
     @Override

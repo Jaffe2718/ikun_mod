@@ -29,5 +29,6 @@ public class IKunMod implements ModInitializer {
         BlockRegistry.register();
         ItemRegistry.register();
         EntityRegistry.register();
+        LOGGER.info("IKun Mod initialized");
     }
 }

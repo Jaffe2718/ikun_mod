@@ -2,6 +2,7 @@ package me.jaffe2718.ikun_mod.block.entity;
 
 import me.jaffe2718.ikun_mod.IKunMod;
 import me.jaffe2718.ikun_mod.client.render.block.ChickenCoopBlockEntityRenderer;
+import me.jaffe2718.ikun_mod.entity.ChickenKunEntity;
 import me.jaffe2718.ikun_mod.unit.BlockRegistry;
 import me.jaffe2718.ikun_mod.unit.EntityRegistry;
 import net.minecraft.block.BlockState;
@@ -86,7 +87,10 @@ public class ChickenCoopBlockEntity extends BlockEntity implements GeoBlockEntit
         }
         if (chickenCoop.activeTicks > 2500) {
             world.createExplosion(null, blockPos.getX() + 0.5, blockPos.getY() + 0.5, blockPos.getZ() + 0.5, 5, false, World.ExplosionSourceType.BLOCK);
-            EntityRegistry.CHICKEN_KUN.spawn(world, blockPos, SpawnReason.EVENT);
+            ChickenKunEntity chickenKun = EntityRegistry.CHICKEN_KUN.spawn(world, blockPos, SpawnReason.EVENT);
+            if (chickenKun != null) {
+                chickenKun.playSound(SoundEvent.of(IKunMod.id("entity.chicken_kun.born")), 1, 1);
+            }
         }
     }
 }
