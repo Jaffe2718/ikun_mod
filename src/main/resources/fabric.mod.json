@@ -27,6 +27,7 @@
     "mixins": [
         "ikun_mod.mixins.json"
     ],
+    "accessWidener": "ikun_mod.accesswidener",
     "depends": {
         "fabricloader": ">=${loader_version}",
         "fabric": "*",
