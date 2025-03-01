@@ -1,0 +1,17 @@
+{
+    "advancements.adventure.beat_chicken_kun.description": "击败鸡坤",
+    "advancements.adventure.beat_chicken_kun.title": "一战成坤",
+    "block.ikun_mod.chicken_coop": "坤笼",
+    "effect.ikun_mod.crush": "Crush on You",
+    "entity.ikun_mod.chicken_kun": "鸡坤",
+    "item.ikun_mod.center_parted_wig": "坤式中分",
+    "subtitles.block.chicken_coop.active": "坤笼：激活",
+    "subtitles.entity.chicken_kun.born": "鸡坤：生成",
+    "subtitles.entity.chicken_kun.kunjump": "鸡坤：坤跳（技能）",
+    "subtitles.entity.chicken_kun.sushan6": "鸡坤：苏珊六式（技能）",
+    "subtitles.entity.chicken_kun.shoot": "鸡坤：射击（技能）",
+    "subtitles.entity.chicken_kun.baozha": "鸡坤：爆炸（技能）",
+    "subtitles.entity.chicken_kun.healing": "鸡坤：自愈",
+    "subtitles.entity.chicken_kun.death": "鸡坤：死亡",
+    "subtitles.entity.chicken_kun.hurt": "鸡坤：受击"
+}

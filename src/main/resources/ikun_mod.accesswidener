@@ -1,0 +1,4 @@
+accessWidener    v2    named
+accessible field net/minecraft/entity/ai/goal/ProjectileAttackGoal target Lnet/minecraft/entity/LivingEntity;
+accessible field net/minecraft/entity/ai/goal/ProjectileAttackGoal mob Lnet/minecraft/entity/mob/MobEntity;
+accessible field net/minecraft/entity/ai/goal/FollowMobGoal target Lnet/minecraft/entity/mob/MobEntity;

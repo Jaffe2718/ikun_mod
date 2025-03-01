@@ -1,0 +1,6 @@
+{
+    "textures": {
+        "0": "ikun_mod:block/chicken_coop",
+        "particle": "ikun_mod:block/chicken_coop"
+    }
+}

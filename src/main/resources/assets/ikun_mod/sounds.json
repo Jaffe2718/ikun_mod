@@ -1,0 +1,114 @@
+{
+    "block.chicken_coop.active": {
+        "subtitle": "subtitles.block.chicken_coop.active",
+        "sounds": [
+            {
+                "name": "ikun_mod:song",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "entity.chicken_kun.born": {
+        "subtitle": "subtitles.entity.chicken_kun.born",
+        "sounds": [
+            {
+                "name": "ikun_mod:baozha",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "entity.chicken_kun.kunjump": {
+        "subtitle": "subtitles.entity.chicken_kun.kunjump",
+        "sounds": [
+            {
+                "name": "ikun_mod:jinitaimei",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "entity.chicken_kun.sushan6": {
+        "subtitle": "subtitles.entity.chicken_kun.sushan6",
+        "sounds": [
+            {
+                "name": "ikun_mod:jinishizaishitaimei",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "entity.chicken_kun.shoot": {
+        "subtitle": "subtitles.entity.chicken_kun.shoot",
+        "sounds": [
+            {
+                "name": "ikun_mod:ji",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "entity.chicken_kun.baozha": {
+        "subtitle": "subtitles.entity.chicken_kun.baozha",
+        "sounds": [
+            {
+                "name": "ikun_mod:baozha",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "entity.chicken_kun.healing": {
+        "subtitle": "subtitles.entity.chicken_kun.healing",
+        "sounds": [
+            {
+                "name": "ikun_mod:song",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "entity.chicken_kun.death": {
+        "subtitle": "subtitles.entity.chicken_kun.death",
+        "sounds": [
+            {
+                "name": "ikun_mod:niganma",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "stream": true
+            },
+            {
+                "name": "ikun_mod:niganma_inv",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "stream": true
+            }
+        ]
+
+    },
+    "entity.chicken_kun.hurt": {
+        "subtitle": "subtitles.entity.chicken_kun.hurt",
+        "sounds": [
+            {
+                "name": "ikun_mod:hyna",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "stream": true
+            },
+            {
+                "name": "ikun_mod:maaa",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "stream": true
+            }
+        ]
+    }
+}

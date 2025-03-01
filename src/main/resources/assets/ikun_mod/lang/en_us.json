@@ -1,0 +1,17 @@
+{
+    "advancements.adventure.beat_chicken_kun.description": "Beat the Chicken Kun",
+    "advancements.adventure.beat_chicken_kun.title": "Beat the Chicken Kun boss",
+    "block.ikun_mod.chicken_coop": "Chicken Coop",
+    "effect.ikun_mod.crush": "Crush",
+    "entity.ikun_mod.chicken_kun": "Chicken Kun",
+    "item.ikun_mod.center_parted_wig": "Center Parted Wig",
+    "subtitles.block.chicken_coop.active": "Chicken Coop: Active",
+    "subtitles.entity.chicken_kun.born": "Chicken Kun: Born",
+    "subtitles.entity.chicken_kun.kunjump": "Chicken Kun: Kun Jump (Skill)",
+    "subtitles.entity.chicken_kun.sushan6": "Chicken Kun: Sushan6 (Skill)",
+    "subtitles.entity.chicken_kun.shoot": "Chicken Kun: Shoot (Skill)",
+    "subtitles.entity.chicken_kun.baozha": "Chicken Kun: Explosion (Skill)",
+    "subtitles.entity.chicken_kun.healing": "Chicken Kun: Healing",
+    "subtitles.entity.chicken_kun.death": "Chicken Kun: Death",
+    "subtitles.entity.chicken_kun.hurt": "Chicken Kun: Hurt"
+}

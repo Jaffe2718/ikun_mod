@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "ikun_mod:item/center_parted_wig"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "schemaVersion": 1,
+    "id": "ikun_mod",
+    "version": "${version}",
+    "name": "IKun Mod",
+    "description": "ikun",
+    "authors": [
+        "Jaffe2718"
+    ],
+    "contact": {
+        "email": "qqyttwqeei@163.com",
+        "homepage": "https://modrinth.com/mod/ikun_mod/",
+        "issues": "https://https://github.com/Jaffe2718/ikun_mod/issues",
+        "sources": "https://https://github.com/Jaffe2718/ikun_mod"
+    },
+    "license": "MIT",
+    "icon": "assets/ikun_mod/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "client": [
+            "me.jaffe2718.ikun_mod.client.IKunModClient"
+        ],
+        "main": [
+            "me.jaffe2718.ikun_mod.IKunMod"
+        ]
+    },
+    "mixins": [
+        "ikun_mod.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=${loader_version}",
+        "fabric": "*",
+        "minecraft": "${minecraft_version}",
+        "geckolib": ">=${geckolib_version}"
+    }
+}

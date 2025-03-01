@@ -1,0 +1,42 @@
+{
+    "parent": "minecraft:adventure/root",
+    "criteria": {
+        "beat_chicken_kun": {
+            "conditions": {
+                "entity": [
+                    {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "type": "ikun_mod:chicken_kun"
+                        }
+                    }
+                ]
+            },
+            "trigger": "minecraft:player_killed_entity"
+        }
+    },
+    "display": {
+        "frame": "challenge",
+        "hidden": true,
+        "description": {
+            "translate": "advancements.adventure.beat_chicken_kun.description"
+        },
+        "icon": {
+            "count": 1,
+            "id": "ikun_mod:chicken_coop"
+        },
+        "title": {
+            "translate": "advancements.adventure.beat_chicken_kun.title"
+        }
+    },
+    "requirements": [
+        [
+            "beat_chicken_kun"
+        ]
+    ],
+    "rewards": {
+        "experience": 250
+    },
+    "sends_telemetry_event": true
+}
